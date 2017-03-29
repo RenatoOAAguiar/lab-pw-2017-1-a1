@@ -1,4 +1,4 @@
-# lab-pw-2017-1
+# lab-pw-2017-1-a1
 
 Laboratório da turma de Programação para Web.
 
@@ -6,7 +6,7 @@ Laboratório da turma de Programação para Web.
 
 ### Para fazer clone.
 
-`git clone https://github.com/walison-moreira-ufg/lab-pw-2017-1`
+`git clone https://github.com/RenatoOAAguiar/lab-pw-2017-1-a1`
 
 ### Para rodar com o Tomcat.
 
@@ -16,7 +16,7 @@ No Linux, use `./mvnw` ao invés de apenas `mvnw`, como no Windows. Além disso,
 
 ## Para acessar a aplicação
 
-`http://localhost:8080` em qualquer navegador.
+`http://localhost:8080/lab-pw-2017-1-a1`.
 
 ### Para "empacotar" a aplicação.
 
@@ -29,5 +29,5 @@ No Linux, use `./mvnw` ao invés de apenas `mvnw`, como no Windows. Além disso,
 Não precisa fazer isso! Já foi feito. :)
 
 `mvn io.takari:maven:0.3.3:wrapper -Dmaven=3.3.9`
-=======
-# lab-pw-2017-1-a1
+
+# 
