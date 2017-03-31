@@ -16,7 +16,7 @@ No Linux, use `./mvnw` ao invés de apenas `mvnw`, como no Windows. Além disso,
 
 ## Para acessar a aplicação
 
-`http://localhost:8080/lab-pw-2017-1-a1`.
+`http://localhost:8080/lab-pw-2017-1-a1`
 
 ### Para "empacotar" a aplicação.
 
@@ -26,7 +26,8 @@ No Linux, use `./mvnw` ao invés de apenas `mvnw`, como no Windows. Além disso,
 
 ### Para "embutir" o Maven no projeto.
 
-Não precisa fazer isso! Já foi feito. :)
+### Código já possui o maven integrado, mas caso seja necessário ser feito
+### utilizar o código abaixo:
 
 `mvn io.takari:maven:0.3.3:wrapper -Dmaven=3.3.9`
 
