@@ -26,8 +26,7 @@ No Linux, use `./mvnw` ao invés de apenas `mvnw`, como no Windows. Além disso,
 
 ### Para "embutir" o Maven no projeto.
 
-### Código já possui o maven integrado, mas caso seja necessário ser feito
-### utilizar o código abaixo:
+ Código já possui o maven integrado, mas caso seja necessário ser feito utilizar o código abaixo:
 
 `mvn io.takari:maven:0.3.3:wrapper -Dmaven=3.3.9`
 
